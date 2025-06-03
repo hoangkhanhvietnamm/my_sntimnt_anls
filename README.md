@@ -22,4 +22,4 @@ This project [briefly describe the purpose, e.g., "builds a neural network to cl
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/{username}/{repo_name}.git
+   git clone https://github.com/hoangkhanhvietnamm/my_sntimnt_anls.git
