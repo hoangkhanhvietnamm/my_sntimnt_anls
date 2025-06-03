@@ -1,6 +1,6 @@
 # my_sntimnt_anls
 
-Welcome to **My Colab Project**, a machine learning project developed using Google Colab. This repository contains notebooks, scripts, and resources for [describe your project, e.g., data analysis, model training].
+Welcome to **My my_sntimnt_anls Project**, a machine learning project developed using Google Colab. This repository contains notebooks, scripts, and resources for [describe your project, e.g., data analysis, model training].
 
 ## Table of Contents
 - [Project Overview](#project-overview)
