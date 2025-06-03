@@ -23,3 +23,17 @@ This project [briefly describe the purpose, e.g., "builds a neural network to cl
 1. Clone the repository:
    ```bash
    git clone https://github.com/hoangkhanhvietnamm/my_sntimnt_anls.git
+
+2. Open the notebook in Google Colab:
+   Use the "Open in Colab" badge:
+
+3. Install dependencies (if any):
+   pip install -r requirements.txt
+
+4. Usage
+   Open your_notebook.ipynb in Google Colab.
+   Follow the instructions in the notebook to run the code.
+   Modify parameters or data as needed.
+5. License
+   This project is licensed under the MIT License - see the LICENSE file for details.
+
